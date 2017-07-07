@@ -63,7 +63,7 @@
 * Applicable products
 * Percent discount
 * flat discount
-* # free trial days?
+* \# free trial days?
 * Stacking OR sequential
 * Expiration 
 
