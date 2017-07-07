@@ -3,9 +3,9 @@
  * **Name**
  * **Description**
  * **Products**
->* Active Products
->* Inactive Products
->* In-development Products
+	>* Active Products
+	>* Inactive Products
+	>* In-development Products
 
 * **Who are these products for?**
 	>How do you descript them? (tenant / partner / channel / region / blah?)
