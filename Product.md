@@ -16,6 +16,7 @@
 	>* In-development Offers
 
 <h3><b>Product</b></h3>
+
 * **Name**
 * **Description**
 * **Expiration** (how long is it view-able maybe??)
