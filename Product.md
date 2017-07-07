@@ -1,7 +1,8 @@
 <h3><b>Product Catalog</b></h3>
-* **Name**
-* **Description**
-* **Products**
+
+ * **Name**
+ * **Description**
+ * **Products**
 >* Active Products
 >* Inactive Products
 >* In-development Products
@@ -23,6 +24,7 @@
 
 
 <h3><b>Feature</b></h3>
+
 * **Name**
 * **Description**
 	>* short
@@ -46,6 +48,7 @@
 
 
 <h3><b>Offer</b></h3>
+
 * Product 
 	* What are we getting?
 * Price
@@ -55,6 +58,7 @@
 
 
 <h3><b>Discount</b></h3>
+
 * Applicable products
 * Percent discount
 * flat discount
@@ -64,6 +68,7 @@
 
 
 <h3><b>Order</b></h3>
+
 * A list of Offers
 * state
 	* prospective 
@@ -86,6 +91,7 @@
 
 
 <h3><b>Some random processes</b></h3>
+
 	Fulfillment - 
 		Input: 
 			An Order
